@@ -258,8 +258,7 @@ LAYER4_TEMPLATE = BASE_TEMPLATE.replace("{% block content %}{% endblock %}", """
         <h2>👑 The Kingdom's True Name</h2>
         <p class="hint">The inscription reads: "When letters march in columns, ordered by a key only the worthy possess, 
         they whisper secrets. But what key? Think of she who gave Bahubali his greatest strength—his mother, 
-        his queen, the warrior goddess herself. Eight letters that commanded respect across all of Mahishmathi. 
-        Her name is not just a word—it's a sequence, an order, a pattern that rearranges chaos into truth."</p>
+        his queen, the warrior goddess herself. Eight letters that commanded respect across all of Mahishmathi. "</p>
         
         <div class="cipher-text">
             ISMAAMTJAHYHMMRSAHIA
